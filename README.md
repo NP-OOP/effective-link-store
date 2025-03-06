@@ -34,3 +34,6 @@ LinkManagerApp/
 ├── Core/                # Core logic (CRUD operations, business logic)
 ├── App.xaml             # Application entry point
 └── README.md            # This file
+
+
+LinkManagerApp/ │ ├── Assets/ # Images and other assets (icons, logos, etc.) ├── Database/ # SQLite database and configuration files ├── UI/ # UI components and screens │ ├── LoginScreen.cs # Login screen │ ├── Dashboard.cs # Dashboard screen │ └── LinkManagement.cs# Link management screen ├── Core/ # Core logic (CRUD operations, business logic) ├── App.xaml # Application entry point └── README.md # This file
