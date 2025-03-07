@@ -5,7 +5,7 @@
 Due to a technical error in Visual Studio, I'm currently unable to push new commits to the GitHub repository.
 
 ---
-Because ofna mistake in creating the GitHub account with a personal email instead of the university email, I had to remake the GitHub account on March 5, 2025 with the correct email.
+Because of a mistake in creating the GitHub account with a personal email instead of the university email, I had to remake the GitHub account on March 5, 2025 with the correct email.
 
 ---
 
